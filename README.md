@@ -29,7 +29,3 @@ Replace payload in USER_PAYLOAD in exploit.py. Max of 600 bytes. If you want mor
 
 lznt1 code from [here](https://github.com/you0708/lznt1). Modified to add a "bad compression" function to corrupt SRVNET buffer
 header without causing a crash.
-
-See this excellent write up by Ricera Security for more details on the methods I used: 
-https://ricercasecurity.blogspot.com/2020/04/ill-ask-your-body-smbghost-pre-auth-rce.html
-
